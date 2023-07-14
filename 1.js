@@ -22,4 +22,6 @@ document.querySelector('#push').onclick = function(){
             }
         }
     }
+
+    console.log('hello')
 }
